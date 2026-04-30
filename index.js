@@ -46,17 +46,17 @@ const officers = [
   {
     name: "Officer Name",
     role: "President",
-    image: "/Assets/officer1.jpg",
+    image: "Assets/officer1.jpg",
   },
   {
     name: "Officer Name",
     role: "Vice President",
-    image: "/Assets/officer2.jpg",
+    image: "Assets/officer2.jpg",
   },
   {
     name: "Officer Name",
     role: "Secretary",
-    image: "/Assets/officer3.jpg",
+    image: "Assets/officer3.jpg",
   },
 ];
 
@@ -98,10 +98,10 @@ showOfficer(officerIndex);
 // UX: Keep this simple + fast (no libraries, no heavy logic)
 
 const images = [
-  "/Assets/graduation.png",
-  "/Assets/students_walking.png",
-  "/Assets/running_students.png",
-  "/Assets/graduation.png", // add more if you want
+  "Assets/graduation.png",
+  "Assets/students_walking.png",
+  "Assets/running_students.png",
+  "Assets/graduation.png", // add more if you want
 ];
 
 let currentIndex = 0;
