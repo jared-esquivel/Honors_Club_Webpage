@@ -644,7 +644,7 @@ a {
   display: grid;
   place-items: center;
   padding: 5rem 1rem;
-  background-image: url("/Assets/students_looking_up.jpg");
+  background-image: url("Assets/students_looking_up.jpg");
   background-size: cover;
   background-position: center;
   color: white;
@@ -790,7 +790,7 @@ a {
   display: grid;
   place-items: center;
   padding: 5rem 1rem;
-  background-image: url("/Assets/Hands_up.jpg");
+  background-image: url("Assets/Hands_up.jpg");
   background-size: cover;
   background-position: center;
   color: white;
